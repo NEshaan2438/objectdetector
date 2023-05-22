@@ -1,0 +1,30 @@
+h1 {
+    font-weight: 300;
+    color: black;
+    background-color: lightgreen;
+    padding: 20px;
+    margin-top: 0px;
+    opacity: 0.5;
+}
+
+h2 {
+    font-weight: 300;
+    color:black;
+    background-color: lightgreen;
+    margin-top: -10px;
+    padding: 10px;
+    opacity: 0.5;
+}
+
+body {
+    text-align: center;
+    background-image: linear-gradient(0deg, rgb(11, 65, 0), rgb(94, 159, 79) 50%, rgb(203, 255, 196));
+    background-size:auto;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+canvas {
+    background-color:beige;
+}
